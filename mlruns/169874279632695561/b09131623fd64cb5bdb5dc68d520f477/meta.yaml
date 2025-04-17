@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/experiment_tracking/mlruns/169874279632695561/b09131623fd64cb5bdb5dc68d520f477/artifacts
+end_time: 1744885594261
+entry_point_name: ''
+experiment_id: '169874279632695561'
+lifecycle_stage: active
+run_id: b09131623fd64cb5bdb5dc68d520f477
+run_name: youthful-sheep-917
+run_uuid: b09131623fd64cb5bdb5dc68d520f477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744885594220
+status: 3
+tags: []
+user_id: amalprasad.k

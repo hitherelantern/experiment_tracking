@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/experiment_tracking/mlruns/169874279632695561/5dc76411982041898068b2fc59f2127a/artifacts
+end_time: 1744885594060
+entry_point_name: ''
+experiment_id: '169874279632695561'
+lifecycle_stage: active
+run_id: 5dc76411982041898068b2fc59f2127a
+run_name: unruly-hog-990
+run_uuid: 5dc76411982041898068b2fc59f2127a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744885594017
+status: 3
+tags: []
+user_id: amalprasad.k

@@ -1,0 +1,9 @@
+tracking uri(remote) - https://dagshub.com/lantern153pdt/experiment_tracking.mlflow
+
+import dagshub
+dagshub.init(repo_owner='lantern153pdt', repo_name='experiment_tracking', mlflow=True)
+
+import mlflow
+with mlflow.start_run():
+  mlflow.log_param('parameter name', 'value')
+  mlflow.log_metric('metric name', 1)

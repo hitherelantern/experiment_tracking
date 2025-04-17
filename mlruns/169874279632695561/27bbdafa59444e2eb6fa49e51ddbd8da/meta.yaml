@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/experiment_tracking/mlruns/169874279632695561/27bbdafa59444e2eb6fa49e51ddbd8da/artifacts
+end_time: 1744885593920
+entry_point_name: ''
+experiment_id: '169874279632695561'
+lifecycle_stage: active
+run_id: 27bbdafa59444e2eb6fa49e51ddbd8da
+run_name: auspicious-panda-604
+run_uuid: 27bbdafa59444e2eb6fa49e51ddbd8da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744885593879
+status: 3
+tags: []
+user_id: amalprasad.k

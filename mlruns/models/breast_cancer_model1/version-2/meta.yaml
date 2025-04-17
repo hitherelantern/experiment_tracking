@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744887541000
+current_stage: None
+description: ''
+last_updated_timestamp: 1744887541000
+name: breast_cancer_model1
+run_id: 97c529f1b93545b796fb793a33fa76ee
+run_link: ''
+source: file:///D:/experiment_tracking/mlruns/169874279632695561/97c529f1b93545b796fb793a33fa76ee/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///D:/experiment_tracking/mlruns/169874279632695561/97c529f1b93545b796fb793a33fa76ee/artifacts/random_forest
+user_id: null
+version: 2

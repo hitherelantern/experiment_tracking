@@ -1,0 +1,6 @@
+artifact_location: file:///D:/experiment_tracking/mlruns/169874279632695561
+creation_time: 1744884964597
+experiment_id: '169874279632695561'
+last_update_time: 1744884964597
+lifecycle_stage: active
+name: breast-cancer-rf-hptune

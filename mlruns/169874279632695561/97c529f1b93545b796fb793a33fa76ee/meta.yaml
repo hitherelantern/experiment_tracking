@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/experiment_tracking/mlruns/169874279632695561/97c529f1b93545b796fb793a33fa76ee/artifacts
+end_time: 1744884971850
+entry_point_name: ''
+experiment_id: '169874279632695561'
+lifecycle_stage: active
+run_id: 97c529f1b93545b796fb793a33fa76ee
+run_name: painted-horse-488
+run_uuid: 97c529f1b93545b796fb793a33fa76ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744884964773
+status: 3
+tags: []
+user_id: amalprasad.k

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/experiment_tracking/mlruns/169874279632695561/4e81972fad7a42ef981ef079db2bb431/artifacts
+end_time: 1744885594014
+entry_point_name: ''
+experiment_id: '169874279632695561'
+lifecycle_stage: active
+run_id: 4e81972fad7a42ef981ef079db2bb431
+run_name: trusting-whale-500
+run_uuid: 4e81972fad7a42ef981ef079db2bb431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744885593970
+status: 3
+tags: []
+user_id: amalprasad.k

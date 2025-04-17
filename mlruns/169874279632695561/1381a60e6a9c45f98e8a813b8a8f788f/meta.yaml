@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/experiment_tracking/mlruns/169874279632695561/1381a60e6a9c45f98e8a813b8a8f788f/artifacts
+end_time: 1744885593967
+entry_point_name: ''
+experiment_id: '169874279632695561'
+lifecycle_stage: active
+run_id: 1381a60e6a9c45f98e8a813b8a8f788f
+run_name: agreeable-mink-605
+run_uuid: 1381a60e6a9c45f98e8a813b8a8f788f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744885593923
+status: 3
+tags: []
+user_id: amalprasad.k

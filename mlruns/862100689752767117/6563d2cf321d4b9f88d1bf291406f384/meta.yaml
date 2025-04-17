@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/862100689752767117/6563d2cf321d4b9f88d1bf291406f384/artifacts
+end_time: 1744873239061
+entry_point_name: ''
+experiment_id: '862100689752767117'
+lifecycle_stage: active
+run_id: 6563d2cf321d4b9f88d1bf291406f384
+run_name: adorable-hawk-128
+run_uuid: 6563d2cf321d4b9f88d1bf291406f384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744873238157
+status: 3
+tags: []
+user_id: amalprasad.k

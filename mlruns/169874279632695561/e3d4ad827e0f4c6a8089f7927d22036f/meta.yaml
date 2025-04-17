@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/experiment_tracking/mlruns/169874279632695561/e3d4ad827e0f4c6a8089f7927d22036f/artifacts
+end_time: 1744885597823
+entry_point_name: ''
+experiment_id: '169874279632695561'
+lifecycle_stage: active
+run_id: e3d4ad827e0f4c6a8089f7927d22036f
+run_name: resilient-lamb-710
+run_uuid: e3d4ad827e0f4c6a8089f7927d22036f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744885590281
+status: 3
+tags: []
+user_id: amalprasad.k
